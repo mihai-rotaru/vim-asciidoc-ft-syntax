@@ -1,0 +1,3 @@
+The `syntax` file for link:http://www.methods.co.nz/asciidoc[asciidoc].
+
+I've put it in a repository to be able to install it as git submodule.
